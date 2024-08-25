@@ -1,0 +1,6 @@
+# Ignore the .env file and node_modules in the optima-backend folder specifically
+backend/.env
+backend/node_modules/
+
+# Ignore the node_modules file in the optima-frontend folder specifically
+frontend/node_modules/
